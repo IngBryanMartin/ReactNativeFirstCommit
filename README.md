@@ -5,5 +5,6 @@
 - Git
 - VSCode
 - Node
+- Copilot
 
 @2025-JAN
